@@ -1,1 +1,2 @@
 # firsttry
+$ brew install mysql
